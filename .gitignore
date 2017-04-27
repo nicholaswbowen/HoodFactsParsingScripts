@@ -1,0 +1,8 @@
+node_modules
+*.osm
+*.js
+*.geojson
+used
+raw
+done
+geojson
